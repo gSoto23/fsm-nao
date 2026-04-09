@@ -21,7 +21,7 @@ Abre tu **Terminal** (o Línea de Comandos/Símbolo del Sistema) y sigue estos d
 ### 1. Clonar el repositorio y entrar a la carpeta
 Primero tienes que descargar el código del proyecto a tu computadora.
 ```bash
-git clone https://github.com/gSoto23/fsm-nao
+git clone https://github.com/gSoto23/fsm-nao.git
 cd fsm-nao
 ```
 
